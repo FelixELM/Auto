@@ -1,0 +1,11 @@
+C:\Users\ITT\Desktop\OOP\Auto\bin\Debug\netcoreapp2.1\Auto.deps.json
+C:\Users\ITT\Desktop\OOP\Auto\bin\Debug\netcoreapp2.1\Auto.runtimeconfig.json
+C:\Users\ITT\Desktop\OOP\Auto\bin\Debug\netcoreapp2.1\Auto.runtimeconfig.dev.json
+C:\Users\ITT\Desktop\OOP\Auto\bin\Debug\netcoreapp2.1\Auto.dll
+C:\Users\ITT\Desktop\OOP\Auto\bin\Debug\netcoreapp2.1\Auto.pdb
+C:\Users\ITT\Desktop\OOP\Auto\obj\Debug\netcoreapp2.1\Auto.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\OOP\Auto\obj\Debug\netcoreapp2.1\Auto.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Desktop\OOP\Auto\obj\Debug\netcoreapp2.1\Auto.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\OOP\Auto\obj\Debug\netcoreapp2.1\Auto.AssemblyInfo.cs
+C:\Users\ITT\Desktop\OOP\Auto\obj\Debug\netcoreapp2.1\Auto.dll
+C:\Users\ITT\Desktop\OOP\Auto\obj\Debug\netcoreapp2.1\Auto.pdb
